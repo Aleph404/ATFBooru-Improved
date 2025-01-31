@@ -3,6 +3,6 @@
 (Shit code generated with the help of ChatGPT (because i dont like JavaScript))
 
 ## Features
-### Favourite Button
-Added a favourite button <br>
-![image1](/images/image1.png)
+### Favourite & Download Button
+Added a favourite and download button <br>
+![image1](/images/image1.png) <br>
