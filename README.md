@@ -1,6 +1,6 @@
 # ATFBooru Improved
-Tampermonkey script to make browsing ATF Booru more comfy
-(Shit code generated with the help of ChatGPT)
+[Tampermonkey](https://www.tampermonkey.net) script to make browsing ATF Booru more comfy <br>
+(Shit code generated with the help of ChatGPT (because i dont like JavaScript))
 
 ## Features
 ### Favourite Button
